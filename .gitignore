@@ -23,6 +23,3 @@ dbt_packages/
 
 # Jupyter's autosave folder
 .ipynb_checkpoints/
-
-# README file
-README.md
