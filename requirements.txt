@@ -1,0 +1,4 @@
+dlt[duckdb]==1.31.0
+duckdb==1.5.6
+ipykernel==7.4.0
+pip==26.2.1
