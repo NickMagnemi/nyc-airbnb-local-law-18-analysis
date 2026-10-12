@@ -1,0 +1,25 @@
+### Git will ignore these files
+
+# Cached python files
+__pycache__/
+
+# The virtual environment
+.venv/*
+
+# Raw data files
+raw_data/*
+
+# secrets
+secrets.toml
+
+# dbt
+target/
+logs/
+dbt_packages/
+
+# DuckDB's database file
+*.duckdb
+*.duckdb.wal
+
+# Jupyter's autosave folder
+.ipynb_checkpoints/
